@@ -10,3 +10,5 @@ Developed using Unity 2020.2.4f1,
 it can be run using InteractiveSystems-Project/IS_FinalProject_executable/Spark.exe 
 
 further details to be found in InteractiveSystems-Project/IS_FinalProject_presentation.pdf
+
+![Alt Text](https://github.com/quimHM/InteractiveSystems-Project/blob/857a058f9dd0cb03af2a16803e4e2d8b4237cd16/IS_FP_slidessnapshot.gif)

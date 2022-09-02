@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0505e94df0bcd61418f4003e5849ec92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AlarmPrefab: {fileID: 2056827785159131833, guid: 5443f1a8fcdc53d499617ea4ba88d035,
+      type: 3}
+  - TimerReady: {fileID: 8300000, guid: 58868e892b93a62478388f1d93c3303c, type: 3}
+  - Boiler: {fileID: 8300000, guid: a3610f75282b45043ae67d9f50d42bdd, type: 3}
+  - Fryer: {fileID: 8300000, guid: 7f1bb03ebb332f6438d1c8db1090d20a, type: 3}
+  - Oven: {fileID: 8300000, guid: f198a054d67e20042bae9de154b960ca, type: 3}
+  - Fridge: {fileID: 8300000, guid: 032267d66e459cc47a37ebb4a1e07c3e, type: 3}
+  - OrderIncoming: {fileID: 8300000, guid: 70a4b646fbfe96546830e3d0d5995c03, type: 3}
+  - OrderVeryGood: {fileID: 8300000, guid: 422b9e47d8eabaf4e9fb3875636b510f, type: 3}
+  - OrderGood: {fileID: 8300000, guid: 5d83d309dc59bb24fa9882305d420d21, type: 3}
+  - OrderBad: {fileID: 8300000, guid: 7a57571fc8723474c80fc56e972b102a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

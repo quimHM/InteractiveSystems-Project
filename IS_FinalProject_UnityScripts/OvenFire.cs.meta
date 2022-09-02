@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c1ddbbe73a5fb75448a7476c863fa055
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inOven: {instanceID: 0}
+  - timer: {instanceID: 0}
+  - timerPrefab: {instanceID: 0}
+  - smoke: {instanceID: 0}
+  - smokePrefab: {instanceID: 0}
+  - fire: {instanceID: 0}
+  - firePrefab: {instanceID: 0}
+  - alarmPrefab: {fileID: 2056827785159131833, guid: 5443f1a8fcdc53d499617ea4ba88d035,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
